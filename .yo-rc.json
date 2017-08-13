@@ -1,0 +1,9 @@
+{
+  "generator-wix-js": {
+    "promptValues": {
+      "authorName": "miri",
+      "authorEmail": "mirif@wix.com",
+      "groupId": "com.wixpress.ks17"
+    }
+  }
+}
