@@ -27,6 +27,6 @@ describe('App', () => {
       </I18nextProvider>,
       {attachTo: document.createElement('div')}
     );
-    expect(wrapper.find('h2').length).to.eq(1);
+    expect(wrapper.find('h1').length).to.eq(1);
   });
 });
